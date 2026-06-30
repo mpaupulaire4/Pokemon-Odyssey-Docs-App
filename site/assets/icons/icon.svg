@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="256" fill="#1b1f23"/>
+  <!-- top half red -->
+  <clipPath id="t"><rect x="0" y="0" width="512" height="256"/></clipPath>
+  <circle cx="256" cy="256" r="216" fill="#e62829" clip-path="url(#t)"/>
+  <!-- bottom half white -->
+  <clipPath id="b"><rect x="0" y="256" width="512" height="256"/></clipPath>
+  <circle cx="256" cy="256" r="216" fill="#ffffff" clip-path="url(#b)"/>
+  <!-- center band -->
+  <rect x="40" y="236" width="432" height="40" fill="#1b1f23"/>
+  <!-- button ring -->
+  <circle cx="256" cy="256" r="62" fill="#ffffff" stroke="#1b1f23" stroke-width="16"/>
+  <!-- button dot -->
+  <circle cx="256" cy="256" r="28" fill="#1b1f23"/>
+  <!-- outer ring -->
+  <circle cx="256" cy="256" r="216" fill="none" stroke="#1b1f23" stroke-width="16"/>
+</svg>

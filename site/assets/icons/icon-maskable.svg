@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- solid background for maskable -->
+  <rect width="512" height="512" fill="#1b1f23"/>
+  <!-- top half red -->
+  <clipPath id="t"><rect x="0" y="0" width="512" height="256"/></clipPath>
+  <circle cx="256" cy="256" r="192" fill="#e62829" clip-path="url(#t)"/>
+  <!-- bottom half white -->
+  <clipPath id="b"><rect x="0" y="256" width="512" height="256"/></clipPath>
+  <circle cx="256" cy="256" r="192" fill="#ffffff" clip-path="url(#b)"/>
+  <!-- center band -->
+  <rect x="64" y="240" width="384" height="32" fill="#1b1f23"/>
+  <!-- button ring -->
+  <circle cx="256" cy="256" r="54" fill="#ffffff" stroke="#1b1f23" stroke-width="14"/>
+  <!-- button dot -->
+  <circle cx="256" cy="256" r="24" fill="#1b1f23"/>
+  <!-- outer ring -->
+  <circle cx="256" cy="256" r="192" fill="none" stroke="#1b1f23" stroke-width="14"/>
+</svg>

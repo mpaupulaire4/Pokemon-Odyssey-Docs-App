@@ -2104,3 +2104,50 @@ body.tb-picker-open { overflow: hidden; }
   color: var(--text-dim);
   line-height: 1.35;
 }
+
+/* =================================================================
+   Mobile — navigation header
+   ================================================================= */
+@media (max-width: 720px) {
+  header.site-header {
+    flex-wrap: wrap;
+    padding: .5rem .85rem .35rem;
+    gap: .25rem .75rem;
+  }
+  .site-header .sub { display: none; }
+  .site-header nav {
+    order: 3;
+    margin-left: 0;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: .2rem;
+    gap: .65rem;
+  }
+  .site-header nav::-webkit-scrollbar { display: none; }
+  .site-header nav a { white-space: nowrap; flex-shrink: 0; }
+}
+
+/* =================================================================
+   Mobile — general layout tweaks
+   ================================================================= */
+@media (max-width: 600px) {
+  .wrap { padding: .75rem .75rem 2.5rem; }
+
+  /* Tables inside detail panels can overflow on narrow screens */
+  .learnset, .locations {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Reduce hero height so content is reached with less scrolling */
+  .hero { min-height: 320px; }
+
+  /* Tighten detail title */
+  .detail-title .name { font-size: 1.5rem; }
+
+  /* Full-width search field */
+  .search { min-width: 0; }
+}
