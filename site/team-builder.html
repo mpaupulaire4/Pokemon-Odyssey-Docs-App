@@ -52,6 +52,8 @@
           <th data-sort-key="name">Name</th>
           <th data-sort-key="types">Types</th>
           <th data-sort-key="abilities">Abilities</th>
+          <th>Moves</th>
+          <th>Item</th>
           <th class="num" data-sort-key="hp" title="HP">HP</th>
           <th class="num" data-sort-key="atk" title="Attack">Atk</th>
           <th class="num" data-sort-key="def" title="Defense">Def</th>
@@ -83,7 +85,7 @@
   <section class="panels tb-panels">
     <div class="panel tb-panel">
       <h2>Offensive Coverage</h2>
-      <p class="tb-caption">Best STAB effectiveness any team member can deal against each defending type.</p>
+      <p class="tb-caption">Best move effectiveness any team member can deal against each defending type, based on selected moves.</p>
       <div id="tb-off-coverage"></div>
     </div>
     <div class="panel tb-panel">
@@ -113,6 +115,36 @@
     </div>
     <div id="tb-picker-list" class="tb-picker-list" tabindex="0"></div>
     <p id="tb-picker-empty" class="empty-msg" style="display:none">No Pokémon match your filters.</p>
+  </div>
+</div>
+
+<!-- Item picker modal -->
+<div id="tb-item-picker" class="tb-picker" role="dialog" aria-modal="true" aria-labelledby="tb-item-picker-title" hidden>
+  <div class="tb-picker-card">
+    <div class="tb-picker-head">
+      <h2 id="tb-item-picker-title">Choose a Held Item</h2>
+      <button id="tb-item-picker-close" class="tb-picker-close" type="button" aria-label="Close">×</button>
+    </div>
+    <div class="tb-picker-filters">
+      <input id="tb-item-picker-search" class="search" type="search" placeholder="Search items…" autocomplete="off">
+    </div>
+    <div id="tb-item-picker-list" class="tb-picker-list tb-move-picker-list" tabindex="0"></div>
+    <p id="tb-item-picker-empty" class="empty-msg" style="display:none">No items match your search.</p>
+  </div>
+</div>
+
+<!-- Move picker modal -->
+<div id="tb-move-picker" class="tb-picker" role="dialog" aria-modal="true" aria-labelledby="tb-move-picker-title" hidden>
+  <div class="tb-picker-card">
+    <div class="tb-picker-head">
+      <h2 id="tb-move-picker-title">Choose a Move</h2>
+      <button id="tb-move-picker-close" class="tb-picker-close" type="button" aria-label="Close">×</button>
+    </div>
+    <div class="tb-picker-filters">
+      <input id="tb-move-picker-search" class="search" type="search" placeholder="Search moves…" autocomplete="off">
+    </div>
+    <div id="tb-move-picker-list" class="tb-picker-list tb-move-picker-list" tabindex="0"></div>
+    <p id="tb-move-picker-empty" class="empty-msg" style="display:none">No moves match your search.</p>
   </div>
 </div>
 
