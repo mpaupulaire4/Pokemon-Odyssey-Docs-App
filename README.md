@@ -1,6 +1,8 @@
 # Pokémon Odyssey Docs App
 
-**Live site:** https://nishxpatel.github.io/Pokemon-Odyssey-Docs-App
+**Live site:** https://mpaupulaire4.github.io/Pokemon-Odyssey-Docs-App
+
+> **Fork note:** This is a personal fork of [nishxpatel/Pokemon-Odyssey-Docs-App](https://github.com/nishxpatel/Pokemon-Odyssey-Docs-App) with additional features (team builder, move/item selection, share links).
 
 An unofficial, fan-made interactive reference site for **Pokémon Odyssey v4.1.1** — a fan game blending Pokémon with Etrian Odyssey mechanics. This was built for personal use and for fun as a supplement to the original creator's existing documentation, to make looking things up faster and easier during a playthrough.
 
