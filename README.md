@@ -50,6 +50,14 @@ python3 scripts/build_data.py
 
 This parses all three workbooks and writes JSON to `site/data/`. It also extracts Etrian Variant sprites and strips their backgrounds.
 
+**Optional: item descriptions from a ROM you own.** The spreadsheets don't include item descriptions (they only ever existed in-game), so pass a local ROM file to pull them directly from the game's own item data:
+
+```bash
+python3 scripts/build_data.py --rom "/path/to/your/Pokemon Odyssey.gba"
+```
+
+Read-only; the ROM is never copied into the repo (see `.gitignore`) or redistributed — only the extracted text ends up in `items.json`. See `scripts/rom_source.py` for how this works.
+
 **Serve the site:**
 
 ```bash

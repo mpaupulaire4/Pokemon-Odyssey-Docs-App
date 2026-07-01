@@ -10,7 +10,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "An item to be held by a POKéMON. It doubles the battle money if the holding POKéMON takes part."
     },
     {
       "name": "Antidote",
@@ -34,7 +35,8 @@
           "habitat": "SECOND STRATUM (RIGHT SIDE)",
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "A spray-type medicine. It heals one Pokémon from a poisoning."
     },
     {
       "name": "Apicot Berry ↑↑",
@@ -45,7 +47,8 @@
           "stratum": "FOURTH STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it raises the Sp. Def stat in a pinch."
     },
     {
       "name": "Assault Vest",
@@ -57,7 +60,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "If held, raises Sp. Def by 50% but prevents the use of status moves."
     },
     {
       "name": "Big Pearl",
@@ -72,7 +76,8 @@
           "stratum": "FOURTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price."
     },
     {
       "name": "Black Augurite",
@@ -89,7 +94,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Black Belt",
@@ -101,7 +107,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A belt that boosts determination and Fighting-type moves."
     },
     {
       "name": "Black Flower",
@@ -116,7 +123,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "GATHERING"
         }
-      ]
+      ],
+      "description": "A black flower that grows in the Yggdrasil Labyrinth."
     },
     {
       "name": "Blackglasses",
@@ -128,7 +136,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A shady-looking pair of glasses that boosts Dark-type moves."
     },
     {
       "name": "Blue Bell (Key Item)",
@@ -140,7 +149,8 @@
           "habitat": null,
           "note": "Chest (Magna Vis)"
         }
-      ]
+      ],
+      "description": "A mysterious Blue Bell found in the Fourth Stratum. It emanates a strange aura."
     },
     {
       "name": "Blue Flower",
@@ -160,7 +170,8 @@
           "stratum": "THIRD STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "A blue flower that grows in the Yggdrasil Labyrinth."
     },
     {
       "name": "Blue Shard",
@@ -195,7 +206,8 @@
           "stratum": "FOURTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A small blue shard. It appears to be from some sort of a tool made long ago."
     },
     {
       "name": "Brightpowder",
@@ -207,7 +219,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy."
     },
     {
       "name": "Calcium",
@@ -224,7 +237,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 3"
         }
-      ]
+      ],
+      "description": "A nutritious drink for Pokémon. It raises the base Sp. Atk stat of one Pokémon by 20."
     },
     {
       "name": "Carbos",
@@ -247,7 +261,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 3"
         }
-      ]
+      ],
+      "description": "A nutritious drink for Pokémon. It raises the base Speed stat of one Pokémon by 20."
     },
     {
       "name": "Charcoal",
@@ -259,7 +274,8 @@
           "habitat": "THIRD STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A combustible fuel that boosts the power of Fire-type moves."
     },
     {
       "name": "Cheri Berry",
@@ -285,7 +301,8 @@
           "stratum": "SECOND STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it will be used in battle to heal paralysis."
     },
     {
       "name": "Chesto Berry",
@@ -311,7 +328,8 @@
           "stratum": "SECOND STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it will be used in battle to wake up."
     },
     {
       "name": "Choice Band",
@@ -323,7 +341,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "Headband that boosts Atk by 50%, but allows the use of only one move."
     },
     {
       "name": "Choice Scarf",
@@ -335,7 +354,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "A scarf that boosts Speed by 50%, but allows the use of only one move."
     },
     {
       "name": "Choice Specs",
@@ -347,7 +367,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "Glasses that boost Sp. Atk by 50%, but allows the use of only one move."
     },
     {
       "name": "Dawn Stone",
@@ -378,7 +399,8 @@
           "stratum": "THIRD STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Dolomite",
@@ -393,7 +415,8 @@
           "stratum": "FOURTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A mineral that can be extracted from the Yggdrasil mines."
     },
     {
       "name": "Dragon Fang",
@@ -405,7 +428,8 @@
           "habitat": "THIRD STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A hard and sharp fang that boosts the power of Dragon-type moves."
     },
     {
       "name": "Dubious Disc",
@@ -422,7 +446,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "An enigmatic disc with dubious data. It allows a certain kind of Pokémon to evolve."
     },
     {
       "name": "Dusk Stone",
@@ -454,7 +479,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Electirizer",
@@ -471,7 +497,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A box full of electric energy. It allows a certain kind of Pokémon to evolve."
     },
     {
       "name": "Elixir",
@@ -495,7 +522,8 @@
           "habitat": "LOST WOODS",
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "Restores the PP of all moves for one Pokémon by 10 points each."
     },
     {
       "name": "Emerald",
@@ -510,7 +538,8 @@
           "stratum": "FIRST STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A mineral that can be extracted from the Yggdrasil mines."
     },
     {
       "name": "Ether",
@@ -522,7 +551,8 @@
           "habitat": null,
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "Restores a selected move’s PP by 10 points for one Pokémon."
     },
     {
       "name": "EV-Editor",
@@ -534,7 +564,8 @@
           "habitat": "COASTAL ROAD",
           "note": "Quest Reward"
         }
-      ]
+      ],
+      "description": "A device used to edit and reassign the EVs of your Pokémon."
     },
     {
       "name": "Everstone",
@@ -546,7 +577,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. The holding Pokémon is prevented from evolving."
     },
     {
       "name": "Eviolite",
@@ -558,7 +590,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "If held, boosts both defences of a not-fully evolved Pokémon by 50%."
     },
     {
       "name": "Expert Belt",
@@ -570,7 +603,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. It’s a well-worn belt that boosts the power of super effective moves."
     },
     {
       "name": "Fire Stone",
@@ -606,7 +640,8 @@
           "stratum": "SECOND STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Flame Orb",
@@ -618,7 +653,8 @@
           "habitat": "THIRD STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. Burns the holder at the end of the turn."
     },
     {
       "name": "Ganlon Berry",
@@ -634,7 +670,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "GATHERING"
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it raises the Defense stat in a pinch."
     },
     {
       "name": "Good Rod",
@@ -646,7 +683,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "A new, good-quality fishing rod. Use it by any body of water to fish for wild Pokémon."
     },
     {
       "name": "Great Ball",
@@ -670,7 +708,8 @@
           "habitat": "SECOND STRATUM (LEFT SIDE)",
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "A good, quality Ball that offers a higher Pokémon catch rate than a standard Poké Ball."
     },
     {
       "name": "Green Shard",
@@ -687,7 +726,8 @@
           "stratum": "FIRST STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A small green shard. It appears to be from some sort of a tool made long ago."
     },
     {
       "name": "Hard Stone",
@@ -699,7 +739,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. An unbreakable stone that boosts the power of Rock-type moves."
     },
     {
       "name": "HP Up",
@@ -734,7 +775,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 3"
         }
-      ]
+      ],
+      "description": "A nutritious drink for Pokémon. It raises the base HP of one Pokémon by 20."
     },
     {
       "name": "Iron",
@@ -757,7 +799,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 3"
         }
-      ]
+      ],
+      "description": "A nutritious drink for Pokémon. It raises the base Defense stat of one Pokémon by 20."
     },
     {
       "name": "Itemfinder (Key Item)",
@@ -769,7 +812,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "A device used for finding hidden items."
     },
     {
       "name": "Items",
@@ -1098,7 +1142,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "GATHERING"
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it raises the critical-hit ratio in a pinch."
     },
     {
       "name": "Leaf Stone",
@@ -1134,7 +1179,8 @@
           "stratum": "FIRST STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Leftovers",
@@ -1146,7 +1192,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. The holding Pokémon gradually regains HP during battle."
     },
     {
       "name": "Leppa Berry ↑↑",
@@ -1162,7 +1209,8 @@
           "stratum": "THIRD STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it will be used in battle to restore 10 PP."
     },
     {
       "name": "Life Orb",
@@ -1174,7 +1222,8 @@
           "habitat": "FOURTH STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "If held, boosts the power of moves but at the cost of some HP."
     },
     {
       "name": "Light Clay",
@@ -1186,7 +1235,8 @@
           "habitat": "CAVE OF ATHARI",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "If held, extends the duration of barrier moves like Reflect or Light Screen."
     },
     {
       "name": "Link Stone",
@@ -1218,7 +1268,8 @@
           "stratum": "FOURTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Lucky Egg",
@@ -1230,7 +1281,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. An egg filled with happiness that earns extra Exp. points in battle."
     },
     {
       "name": "Lum Berry",
@@ -1260,7 +1312,8 @@
           "stratum": "FOURTH STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it will be used in battle to heal any problem."
     },
     {
       "name": "Magmarizer",
@@ -1277,7 +1330,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A box brimming with magma energy. It allows a certain kind of Pokémon to evolve."
     },
     {
       "name": "Magna Vis (Key Item)",
@@ -1289,7 +1343,8 @@
           "habitat": null,
           "note": "Quest Reward"
         }
-      ]
+      ],
+      "description": "An ancient bracelet that temporarily increases the strength of the wearer."
     },
     {
       "name": "Magnet",
@@ -1301,7 +1356,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A powerful magnet that boosts the power of Electric-type moves."
     },
     {
       "name": "Max Elixir",
@@ -1325,7 +1381,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Fully restores the PP of all moves for one Pokémon."
     },
     {
       "name": "Max Repel",
@@ -1343,7 +1400,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Prevents weak wild Pokémon from appearing for 250 steps."
     },
     {
       "name": "Medica",
@@ -1367,7 +1425,8 @@
           "habitat": "FIRST STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Medicine made of boiled herbs that restores 50 HP."
     },
     {
       "name": "Medica II",
@@ -1397,7 +1456,8 @@
           "habitat": "SECOND STRATUM (RIGHT SIDE)",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Medicine made of flower extract that restores 80 HP."
     },
     {
       "name": "Medica III",
@@ -1409,7 +1469,8 @@
           "habitat": "FOURTH STRATUM",
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "Medicine made of crushed nutshells that restores 120 HP."
     },
     {
       "name": "Medica IV",
@@ -1439,7 +1500,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Medicine made of pulverized coral that fully restores HP."
     },
     {
       "name": "Medica V",
@@ -1475,7 +1537,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Medicine made of Yggdrasil’s honey that fully restores HP and removes status."
     },
     {
       "name": "Memento Vitae (Key Item)",
@@ -1487,7 +1550,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An ancient artifact. Use it to make your Pokémon remember their moves."
     },
     {
       "name": "Metal Coat",
@@ -1499,7 +1563,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A special metallic film that boosts the power of Steel-type moves."
     },
     {
       "name": "Miracle Seed",
@@ -1511,7 +1576,8 @@
           "habitat": "FIBERNIA WOODS",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A seed imbued with life that boosts the power of Grass-type moves."
     },
     {
       "name": "Moon Stone",
@@ -1559,7 +1625,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Mystic Water",
@@ -1571,7 +1638,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A teardrop-shaped gem that boosts the power of Water-type moves."
     },
     {
       "name": "Nectar",
@@ -1613,7 +1681,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Revival elixir made of honey. Revives and restores 25% of the Pokémon’s max HP."
     },
     {
       "name": "Nectar II",
@@ -1655,7 +1724,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Revival elixir made of honey. Fully revives a Pokémon."
     },
     {
       "name": "Nevermeltice",
@@ -1667,7 +1737,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A piece of ice that repels heat and boosts Ice-type moves."
     },
     {
       "name": "Nugget",
@@ -1724,7 +1795,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price."
     },
     {
       "name": "Offer. Bag (Key Item)",
@@ -1736,7 +1808,8 @@
           "habitat": "FIRST STRATUM",
           "note": "Magna Vis"
         }
-      ]
+      ],
+      "description": "An offerings bag found in the First Stratum."
     },
     {
       "name": "Old Amber (Key Item)",
@@ -1748,7 +1821,8 @@
           "habitat": null,
           "note": "Sidequest"
         }
-      ]
+      ],
+      "description": "A piece of amber that contains the genes of an ancient Pokémon. It is clear with a reddish tint."
     },
     {
       "name": "Old Rod",
@@ -1760,7 +1834,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "An old and beat-up fishing rod. Use it by any body of water to fish for wild Pokémon."
     },
     {
       "name": "Oran Berry",
@@ -1786,7 +1861,8 @@
           "stratum": "SECOND STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it will be used in battle to restore 10 HP."
     },
     {
       "name": "Paralyz Heal",
@@ -1804,7 +1880,8 @@
           "habitat": "FIRST STRATUM",
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "A spray-type medicine. It heals one Pokémon from paralysis."
     },
     {
       "name": "Pearl",
@@ -1820,7 +1897,8 @@
           "kind": "pickup",
           "percent": 0.05
         }
-      ]
+      ],
+      "description": "A relatively small pearl that sparkles in a pretty silver color. It can be sold cheaply."
     },
     {
       "name": "Pecha Berry",
@@ -1846,7 +1924,8 @@
           "stratum": "SECOND STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held by a Pokémon, it will be used in battle to cure poison."
     },
     {
       "name": "Perlite",
@@ -1861,7 +1940,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A mineral that can be extracted from the Yggdrasil mines."
     },
     {
       "name": "Poison Barb",
@@ -1873,7 +1953,8 @@
           "habitat": null,
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A small, poisonous barb that boosts the power of Poison-type moves."
     },
     {
       "name": "Poké Ball",
@@ -1897,7 +1978,8 @@
           "habitat": "FIRST STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "A Ball thrown to catch a wild Pokémon. It is designed in a capsule style."
     },
     {
       "name": "Pokéflute (Key Item)",
@@ -1909,7 +1991,8 @@
           "habitat": null,
           "note": "Quest Reward"
         }
-      ]
+      ],
+      "description": "A flute that is said to instantly awaken any Pokémon. It has a lovely tone."
     },
     {
       "name": "POWER ITEM SHOP (VARLEY)",
@@ -1932,7 +2015,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Slightly raises the maximum PP of a selected move for one Pokémon."
     },
     {
       "name": "PP-Max",
@@ -1973,7 +2057,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 3"
         }
-      ]
+      ],
+      "description": "Raises the PP of a selected move to its maximum level for one Pokémon."
     },
     {
       "name": "Prism Scale",
@@ -1989,7 +2074,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A mysterious scale that evolves certain Pokémon."
     },
     {
       "name": "Protector",
@@ -2006,7 +2092,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A durable piece of protective equipment. It allows certain kind of Pokémon to evolve."
     },
     {
       "name": "Protein",
@@ -2047,7 +2134,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 3"
         }
-      ]
+      ],
+      "description": "A nutritious drink for Pokémon. It raises the base Attack stat of one Pokémon by 20."
     },
     {
       "name": "Purple Flower",
@@ -2067,7 +2155,8 @@
           "stratum": "FOURTH STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "A purple flower that grows in the Yggdrasil Labyrinth."
     },
     {
       "name": "Rawst Berry ↑↑",
@@ -2078,7 +2167,8 @@
           "stratum": "THIRD STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "When held, it will be used in battle to heal a burn."
     },
     {
       "name": "Reaper Cloth",
@@ -2095,7 +2185,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A cloth imbued with spiritual energy. It allows a certain kind of Pokémon to evolve."
     },
     {
       "name": "Red Bell (Key Item)",
@@ -2107,7 +2198,8 @@
           "habitat": "THIRD STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "A mysterious Red Bell found in the Third Stratum. It emanates a strange aura."
     },
     {
       "name": "Red Flower",
@@ -2127,7 +2219,8 @@
           "stratum": "FIRST STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "A red flower that grows in the Yggdrasil Labyrinth."
     },
     {
       "name": "Red Shard",
@@ -2138,7 +2231,8 @@
           "stratum": "THIRD STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A small red shard. It appears to be from some sort of a tool made long ago."
     },
     {
       "name": "Relic Gold",
@@ -2154,7 +2248,8 @@
           "kind": "pickup",
           "percent": 0.05
         }
-      ]
+      ],
+      "description": "A gold coin used by an ancient civilization about 3.000 years ago."
     },
     {
       "name": "Relic Silver",
@@ -2176,7 +2271,8 @@
           "kind": "pickup",
           "percent": 0.05
         }
-      ]
+      ],
+      "description": "A silver coin used by an ancient civilization about 3.000 years ago."
     },
     {
       "name": "Repel",
@@ -2200,7 +2296,8 @@
           "habitat": "FIRST STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Prevents weak wild Pokémon from appearing for 100 steps."
     },
     {
       "name": "Rocky Helmet",
@@ -2212,7 +2309,8 @@
           "habitat": "SECOND STRATUM (RIGHT SIDE)",
           "note": "Chest (F.O.E.)"
         }
-      ]
+      ],
+      "description": "If held, the attacker will be damaged upon contact."
     },
     {
       "name": "Salac Berry ↑↑",
@@ -2238,7 +2336,8 @@
           "stratum": "THIRD STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "An exquisitely beautiful gem that has a blue glow. It symbolizes honesty."
     },
     {
       "name": "Scope Lens",
@@ -2250,7 +2349,8 @@
           "habitat": "THIRD STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A lens that boosts the critical-hit ratio of the holding Pokémon."
     },
     {
       "name": "Sharp Beak",
@@ -2262,7 +2362,8 @@
           "habitat": null,
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A long, sharp beak that boosts the power of Flying-type moves."
     },
     {
       "name": "Shell Bell",
@@ -2274,7 +2375,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. The holding Pokémon regains some HP upon striking the foe."
     },
     {
       "name": "Shiny Stone",
@@ -2305,7 +2407,8 @@
           "stratum": "THIRD STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Silk Scarf",
@@ -2317,7 +2420,8 @@
           "habitat": null,
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A sumptuous scarf that boosts the power of Normal-type moves."
     },
     {
       "name": "Silverpowder",
@@ -2329,7 +2433,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A shiny silver powder that boosts the power of Bug-type moves."
     },
     {
       "name": "Sitrus Berry",
@@ -2387,7 +2492,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "GATHERING"
         }
-      ]
+      ],
+      "description": "When held, it will be used in battle to restore 25% of max HP."
     },
     {
       "name": "Soft Sand",
@@ -2399,7 +2505,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A loose, silky sand that boosts the power of Ground-type moves."
     },
     {
       "name": "Spell Tag",
@@ -2411,7 +2518,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A sinister, eerie tag that boosts Ghost-type moves."
     },
     {
       "name": "Star Pendant",
@@ -2423,7 +2531,8 @@
           "habitat": "FIRST STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A sacred pendant that boosts the power of Aether-type moves."
     },
     {
       "name": "Star Piece",
@@ -2461,7 +2570,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A shard of a pretty gem that sparkles in a red color. It can be sold at a high price."
     },
     {
       "name": "Stardust",
@@ -2503,7 +2613,8 @@
           "stratum": "FIFTH STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A pretty red sand with a loose, silky feel. It can be sold at a high price."
     },
     {
       "name": "Sun Stone",
@@ -2550,7 +2661,8 @@
           "stratum": "SECOND STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Super Repel",
@@ -2574,7 +2686,8 @@
           "habitat": null,
           "note": "Hidden"
         }
-      ]
+      ],
+      "description": "Prevents weak wild Pokémon from appearing for 200 steps."
     },
     {
       "name": "Super Rod",
@@ -2586,7 +2699,8 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "An awesome, high-tech fishing rod. Use it by any body of water to fish for wild Pokémon."
     },
     {
       "name": "Tent",
@@ -2604,7 +2718,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "A camping tent. Use it to heal your team and recover your Stamina."
     },
     {
       "name": "Theriaca",
@@ -2640,7 +2755,8 @@
           "habitat": "LOST WOODS",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Panacea made of boiled flower petals. Removes status conditions."
     },
     {
       "name": "Thunderstone",
@@ -2688,7 +2804,8 @@
           "stratum": "THIRD STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Timer Ball",
@@ -2706,557 +2823,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
-    },
-    {
-      "name": "TM TM01",
-      "slug": "tm-tm01",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM01",
-          "location": "Drain Punch"
-        }
-      ]
-    },
-    {
-      "name": "TM TM02",
-      "slug": "tm-tm02",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM02",
-          "location": "Dragon Claw"
-        }
-      ]
-    },
-    {
-      "name": "TM TM03",
-      "slug": "tm-tm03",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM03",
-          "location": "Water Pulse"
-        }
-      ]
-    },
-    {
-      "name": "TM TM04",
-      "slug": "tm-tm04",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM04",
-          "location": "Calm Mind"
-        }
-      ]
-    },
-    {
-      "name": "TM TM05",
-      "slug": "tm-tm05",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM05",
-          "location": "Snarl"
-        }
-      ]
-    },
-    {
-      "name": "TM TM06",
-      "slug": "tm-tm06",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM06",
-          "location": "Toxic"
-        }
-      ]
-    },
-    {
-      "name": "TM TM07",
-      "slug": "tm-tm07",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM07",
-          "location": "Hail"
-        }
-      ]
-    },
-    {
-      "name": "TM TM08",
-      "slug": "tm-tm08",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM08",
-          "location": "Bulk Up"
-        }
-      ]
-    },
-    {
-      "name": "TM TM09",
-      "slug": "tm-tm09",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM09",
-          "location": "Bullet Seed"
-        }
-      ]
-    },
-    {
-      "name": "TM TM10",
-      "slug": "tm-tm10",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM10",
-          "location": "Flash Cannon"
-        }
-      ]
-    },
-    {
-      "name": "TM TM11",
-      "slug": "tm-tm11",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM11",
-          "location": "Sunny Day"
-        }
-      ]
-    },
-    {
-      "name": "TM TM12",
-      "slug": "tm-tm12",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM12",
-          "location": "Taunt"
-        }
-      ]
-    },
-    {
-      "name": "TM TM13",
-      "slug": "tm-tm13",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM13",
-          "location": "Ice Beam"
-        }
-      ]
-    },
-    {
-      "name": "TM TM14",
-      "slug": "tm-tm14",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM14",
-          "location": "Blizzard"
-        }
-      ]
-    },
-    {
-      "name": "TM TM15",
-      "slug": "tm-tm15",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM15",
-          "location": "Hyper Beam"
-        }
-      ]
-    },
-    {
-      "name": "TM TM16",
-      "slug": "tm-tm16",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM16",
-          "location": "Light Screen"
-        }
-      ]
-    },
-    {
-      "name": "TM TM17",
-      "slug": "tm-tm17",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM17",
-          "location": "Protect"
-        }
-      ]
-    },
-    {
-      "name": "TM TM18",
-      "slug": "tm-tm18",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM18",
-          "location": "Rain Dance"
-        }
-      ]
-    },
-    {
-      "name": "TM TM19",
-      "slug": "tm-tm19",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM19",
-          "location": "Giga Drain"
-        }
-      ]
-    },
-    {
-      "name": "TM TM20",
-      "slug": "tm-tm20",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM20",
-          "location": "Safeguard"
-        }
-      ]
-    },
-    {
-      "name": "TM TM21",
-      "slug": "tm-tm21",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM21",
-          "location": "Frustration"
-        }
-      ]
-    },
-    {
-      "name": "TM TM22",
-      "slug": "tm-tm22",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM22",
-          "location": "Solar Beam"
-        }
-      ]
-    },
-    {
-      "name": "TM TM23",
-      "slug": "tm-tm23",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM23",
-          "location": "Iron Tail"
-        }
-      ]
-    },
-    {
-      "name": "TM TM24",
-      "slug": "tm-tm24",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM24",
-          "location": "Thunderbolt"
-        }
-      ]
-    },
-    {
-      "name": "TM TM25",
-      "slug": "tm-tm25",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM25",
-          "location": "Thunder"
-        }
-      ]
-    },
-    {
-      "name": "TM TM26",
-      "slug": "tm-tm26",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM26",
-          "location": "Earthquake"
-        }
-      ]
-    },
-    {
-      "name": "TM TM27",
-      "slug": "tm-tm27",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM27",
-          "location": "Return"
-        }
-      ]
-    },
-    {
-      "name": "TM TM28",
-      "slug": "tm-tm28",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM28",
-          "location": "Dig"
-        }
-      ]
-    },
-    {
-      "name": "TM TM29",
-      "slug": "tm-tm29",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM29",
-          "location": "Psychic"
-        }
-      ]
-    },
-    {
-      "name": "TM TM30",
-      "slug": "tm-tm30",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM30",
-          "location": "Shadow Ball"
-        }
-      ]
-    },
-    {
-      "name": "TM TM31",
-      "slug": "tm-tm31",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM31",
-          "location": "Brick Break"
-        }
-      ]
-    },
-    {
-      "name": "TM TM32",
-      "slug": "tm-tm32",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM32",
-          "location": "Double Team"
-        }
-      ]
-    },
-    {
-      "name": "TM TM33",
-      "slug": "tm-tm33",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM33",
-          "location": "Reflect"
-        }
-      ]
-    },
-    {
-      "name": "TM TM34",
-      "slug": "tm-tm34",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM34",
-          "location": "Shock Wave"
-        }
-      ]
-    },
-    {
-      "name": "TM TM35",
-      "slug": "tm-tm35",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM35",
-          "location": "Flamethrower"
-        }
-      ]
-    },
-    {
-      "name": "TM TM36",
-      "slug": "tm-tm36",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM36",
-          "location": "Sludge Bomb"
-        }
-      ]
-    },
-    {
-      "name": "TM TM37",
-      "slug": "tm-tm37",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM37",
-          "location": "Sandstorm"
-        }
-      ]
-    },
-    {
-      "name": "TM TM38",
-      "slug": "tm-tm38",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM38",
-          "location": "Fire Blast"
-        }
-      ]
-    },
-    {
-      "name": "TM TM39",
-      "slug": "tm-tm39",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM39",
-          "location": "Rock Tomb"
-        }
-      ]
-    },
-    {
-      "name": "TM TM40",
-      "slug": "tm-tm40",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM40",
-          "location": "Aerial Ace"
-        }
-      ]
-    },
-    {
-      "name": "TM TM41",
-      "slug": "tm-tm41",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM41",
-          "location": "Torment"
-        }
-      ]
-    },
-    {
-      "name": "TM TM42",
-      "slug": "tm-tm42",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM42",
-          "location": "Facade"
-        }
-      ]
-    },
-    {
-      "name": "TM TM43",
-      "slug": "tm-tm43",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM43",
-          "location": "Dragon Pulse"
-        }
-      ]
-    },
-    {
-      "name": "TM TM44",
-      "slug": "tm-tm44",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM44",
-          "location": "Rest"
-        }
-      ]
-    },
-    {
-      "name": "TM TM45",
-      "slug": "tm-tm45",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM45",
-          "location": "Attract"
-        }
-      ]
-    },
-    {
-      "name": "TM TM46",
-      "slug": "tm-tm46",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM46",
-          "location": "Dark Pulse"
-        }
-      ]
-    },
-    {
-      "name": "TM TM47",
-      "slug": "tm-tm47",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM47",
-          "location": "Steel Wing"
-        }
-      ]
-    },
-    {
-      "name": "TM TM48",
-      "slug": "tm-tm48",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM48",
-          "location": "Skill Swap"
-        }
-      ]
-    },
-    {
-      "name": "TM TM49",
-      "slug": "tm-tm49",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM49",
-          "location": "Scald"
-        }
-      ]
-    },
-    {
-      "name": "TM TM50",
-      "slug": "tm-tm50",
-      "sources": [
-        {
-          "kind": "tm",
-          "move": "TM50",
-          "location": "Overheat"
-        }
-      ]
+      ],
+      "description": "A somewhat different Ball that becomes progressively better the more turns there are in a battle."
     },
     {
       "name": "TM01 (Drain Punch)",
@@ -3267,8 +2835,14 @@
           "location": "UNDERGROUND CITY",
           "habitat": "SIXTH STRATUM - CENTER",
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Drain Punch",
+          "location": "Sixth Stratum, central area"
         }
-      ]
+      ],
+      "description": "The user attacks with a draining punch, restoring its HP."
     },
     {
       "name": "TM02 (Dragon Claw)",
@@ -3279,8 +2853,14 @@
           "location": "CAVE OF AGES",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Dragon Claw",
+          "location": "Cave of Ages"
         }
-      ]
+      ],
+      "description": "Sharp, huge claws hook and slash the foe quickly and with great power."
     },
     {
       "name": "TM03 (Water Pulse)",
@@ -3291,8 +2871,14 @@
           "location": "SEA TEMPLE",
           "habitat": "SECOND STRATUM (RIGHT SIDE)",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Water Pulse",
+          "location": "Second Stratum, right side"
         }
-      ]
+      ],
+      "description": "An attack with a pulsing blast of water. It may also confuse the foe."
     },
     {
       "name": "TM04 (Calm Mind)",
@@ -3303,8 +2889,26 @@
           "location": "UNDERGROUND CITY",
           "habitat": "FIFTH STRATUM - B1F",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Calm Mind",
+          "location": "Fifth stratum, B1F"
         }
-      ]
+      ],
+      "description": "The user focuses its mind to raise the Sp. Atk and Sp. Def stats."
+    },
+    {
+      "name": "TM05 Snarl",
+      "slug": "tm05-snarl",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Snarl",
+          "location": "Quest Reward: \"Show me a Sneasel!\", Krabby Club"
+        }
+      ],
+      "description": "The user yells, making the target’s Sp. Atk stat decrease."
     },
     {
       "name": "TM06 (Toxic)",
@@ -3315,8 +2919,14 @@
           "location": "SIXTH STRATUM - NORTH",
           "habitat": "SIXTH STRATUM - WEST",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Toxic",
+          "location": "Sixth Stratum, western area"
         }
-      ]
+      ],
+      "description": "A move that badly poisons the foe. Its poison damage worsens every turn."
     },
     {
       "name": "TM07 (Hail)",
@@ -3327,8 +2937,14 @@
           "location": "ARUNDEL",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Hail",
+          "location": "Arundel"
         }
-      ]
+      ],
+      "description": "A hailstorm lasting five turns damages all Pokémon except the Ice-type."
     },
     {
       "name": "TM08 (Bulk Up)",
@@ -3339,8 +2955,14 @@
           "location": "THIRD STRATUM BASE",
           "habitat": null,
           "note": "Quest Reward"
+        },
+        {
+          "kind": "tm",
+          "move": "Bulk Up",
+          "location": "Quest Reward: \"Eeveelution!\", Third Stratum Base"
         }
-      ]
+      ],
+      "description": "The user bulks up its body to boost both its Attack and Defense stats."
     },
     {
       "name": "TM09 (Bullet Seed)",
@@ -3351,8 +2973,14 @@
           "location": "VARLEY WOODS",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Bullet Seed",
+          "location": "Varley Woods"
         }
-      ]
+      ],
+      "description": "The user shoots seeds at the foe. Two to five seeds are shot at once."
     },
     {
       "name": "TM10 (Flash Cannon)",
@@ -3363,8 +2991,14 @@
           "location": "SEVENTH STRATUM - B1F",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Flash Cannon",
+          "location": "Seventh Stratum, B1F"
         }
-      ]
+      ],
+      "description": "Light energy is released at once. May also lower the target Sp. Def."
     },
     {
       "name": "TM11 (Sunny Day)",
@@ -3375,8 +3009,38 @@
           "location": "CHARON",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Sunny Day",
+          "location": "Charon"
         }
-      ]
+      ],
+      "description": "The sun blazes for five turns, powering up Fire-type moves."
+    },
+    {
+      "name": "TM12 Taunt",
+      "slug": "tm12-taunt",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Taunt",
+          "location": "Talrega's Guild, TM machine near Rikkah"
+        }
+      ],
+      "description": "The foe is taunted into a rage that allows it to use only attack moves."
+    },
+    {
+      "name": "TM13 Ice Beam",
+      "slug": "tm13-ice-beam",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Ice Beam",
+          "location": "Sea of Galazeah, eastern side"
+        }
+      ],
+      "description": "The foe is struck with an icy beam. It may inflict frostbite."
     },
     {
       "name": "TM14 (Blizzard)",
@@ -3387,8 +3051,14 @@
           "location": "UNDERGROUND CITY",
           "habitat": "SIXTH STRATUM - SOUTH",
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Blizzard",
+          "location": "Sixth Stratum, southern area"
         }
-      ]
+      ],
+      "description": "The foe is struck with an icy beam. It may inflict frostbite."
     },
     {
       "name": "TM15 (Hyper Beam)",
@@ -3399,8 +3069,26 @@
           "location": "UNDERGROUND CITY",
           "habitat": "FIFTH STRATUM - B2F",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Hyper Beam",
+          "location": "Fifth Stratum, B2F"
         }
-      ]
+      ],
+      "description": "A severely damaging attack that makes the user rest on the next turn."
+    },
+    {
+      "name": "TM16 Light Screen",
+      "slug": "tm16-light-screen",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Light Screen",
+          "location": "Quest Reward: \"The Cake is a Lie\", Krabby Club"
+        }
+      ],
+      "description": "A wall of light cuts damage from Sp. Atk attacks for five turns."
     },
     {
       "name": "TM17 (Protect)",
@@ -3411,8 +3099,26 @@
           "location": "AUBURN THICKET",
           "habitat": "FOURTH STRATUM",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Protect",
+          "location": "Fourth Stratum"
         }
-      ]
+      ],
+      "description": "Enables the user to evade all attacks. It may fail if used in succession."
+    },
+    {
+      "name": "TM18 Rain Dance",
+      "slug": "tm18-rain-dance",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Rain Dance",
+          "location": "Gorge of Zanado"
+        }
+      ],
+      "description": "A heavy rain falls for five turns, powering up Water- type moves."
     },
     {
       "name": "TM19 (Giga Drain)",
@@ -3423,8 +3129,26 @@
           "location": "ABANDONED LAB",
           "habitat": "FIRST STRATUM",
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Giga Drain",
+          "location": "First Stratum"
         }
-      ]
+      ],
+      "description": "A harsh attack that absorbs half the damage it inflicted to restore HP."
+    },
+    {
+      "name": "TM20 Safeguard",
+      "slug": "tm20-safeguard",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Safeguard",
+          "location": "Talrega's Guild, TM machine near Rikkah"
+        }
+      ],
+      "description": "It protects the user’s party from all status problems for five turns."
     },
     {
       "name": "TM21 (Return)",
@@ -3436,7 +3160,20 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "This attack move grows more powerful the less the user likes its Trainer."
+    },
+    {
+      "name": "TM21 Frustration",
+      "slug": "tm21-frustration",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Frustration",
+          "location": "Charon"
+        }
+      ],
+      "description": "This attack move grows more powerful the less the user likes its Trainer."
     },
     {
       "name": "TM22 (Solar Beam)",
@@ -3447,8 +3184,14 @@
           "location": "MAPLE ISLAND",
           "habitat": "THIRD STRATUM",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Solar Beam",
+          "location": "Third Stratum"
         }
-      ]
+      ],
+      "description": "A 2-turn move that blasts the foe with absorbed energy in the 2nd turn."
     },
     {
       "name": "TM23 (Iron Tail)",
@@ -3459,8 +3202,14 @@
           "location": "THIRD STRATUM BASE",
           "habitat": null,
           "note": "Quest Reward"
+        },
+        {
+          "kind": "tm",
+          "move": "Iron Tail",
+          "location": "Quest Reward: \"Eeveelution!\", Third Stratum Base"
         }
-      ]
+      ],
+      "description": "An attack with a steel-hard tail. It may lower the foe’s Defense stat."
     },
     {
       "name": "TM24 (Thunderbolt)",
@@ -3471,8 +3220,14 @@
           "location": "AUBURN THICKET",
           "habitat": null,
           "note": "Quest Reward"
+        },
+        {
+          "kind": "tm",
+          "move": "Thunderbolt",
+          "location": "Quest Reward: \"The lost Castform\", Auburn Thicket"
         }
-      ]
+      ],
+      "description": "A strong electrical attack that may also leave the foe paralyzed."
     },
     {
       "name": "TM25 (Thunder)",
@@ -3483,8 +3238,14 @@
           "location": "RADE OF CARCINO",
           "habitat": null,
           "note": "Quest Reward"
+        },
+        {
+          "kind": "tm",
+          "move": "Thunder",
+          "location": "Quest Reward: \"The Mantis' Nest\", Rade of Carcino"
         }
-      ]
+      ],
+      "description": "A brutal lightning attack that may also leave the foe paralyzed."
     },
     {
       "name": "TM26 (Earthquake)",
@@ -3495,8 +3256,14 @@
           "location": "SEA TEMPLE",
           "habitat": "SECOND STRATUM (RIGHT SIDE)",
           "note": "Chest (Magna Vis)"
+        },
+        {
+          "kind": "tm",
+          "move": "Earthquake",
+          "location": "Second Stratum, right side"
         }
-      ]
+      ],
+      "description": "An earthquake that strikes all Pokémon in battle excluding the user."
     },
     {
       "name": "TM27 (Frustration)",
@@ -3508,7 +3275,20 @@
           "habitat": null,
           "note": "NPC"
         }
-      ]
+      ],
+      "description": "This attack move grows more powerful the more the user likes its Trainer."
+    },
+    {
+      "name": "TM27 Return",
+      "slug": "tm27-return",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Return",
+          "location": "Charon"
+        }
+      ],
+      "description": "This attack move grows more powerful the more the user likes its Trainer."
     },
     {
       "name": "TM28 (Dig)",
@@ -3519,8 +3299,14 @@
           "location": "SEA TEMPLE",
           "habitat": "SECOND STRATUM (LEFT SIDE)",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Dig",
+          "location": "Second Stratum, left side"
         }
-      ]
+      ],
+      "description": "An attack that hits on the 2nd turn."
     },
     {
       "name": "TM29 (Psychic)",
@@ -3531,8 +3317,14 @@
           "location": "UNDERGROUND CITY",
           "habitat": "FIFTH STRATUM - B2F",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Psychic",
+          "location": "Fifth Stratum, B2F"
         }
-      ]
+      ],
+      "description": "A strong telekinetic attack. It may also lower the foe’s Sp. Def stat."
     },
     {
       "name": "TM30 (Shadow Ball)",
@@ -3543,8 +3335,14 @@
           "location": "MAPLE ISLAND",
           "habitat": "THIRD STRATUM",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Shadow Ball",
+          "location": "Third Stratum"
         }
-      ]
+      ],
+      "description": "A shadowy blob is hurled at the foe. May also lower the foe’s Sp. Def."
     },
     {
       "name": "TM31 (Brick Break)",
@@ -3555,8 +3353,14 @@
           "location": "BRIGIT FARM",
           "habitat": null,
           "note": "Quest Reward"
+        },
+        {
+          "kind": "tm",
+          "move": "Brick Break",
+          "location": "Quest Reward: \"One drink too many...\", Brigit Farm"
         }
-      ]
+      ],
+      "description": "An attack that also breaks any barrier like Light Screen and Reflect."
     },
     {
       "name": "TM32 (Double Team)",
@@ -3567,8 +3371,26 @@
           "location": "RADE OF CARCINO",
           "habitat": "LOST WOODS",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Double Team",
+          "location": "Lost Woods"
         }
-      ]
+      ],
+      "description": "The user creates illusory copies of itself to raise its evasiveness."
+    },
+    {
+      "name": "TM33 Reflect",
+      "slug": "tm33-reflect",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Reflect",
+          "location": "Quest Reward: \"The Cake is a Lie\", Krabby Club"
+        }
+      ],
+      "description": "A wall of light cuts damage from physical attacks for five turns."
     },
     {
       "name": "TM34 (Shock Wave)",
@@ -3579,8 +3401,14 @@
           "location": "BRIGIT FARM",
           "habitat": null,
           "note": "Quest Reward"
+        },
+        {
+          "kind": "tm",
+          "move": "Shock Wave",
+          "location": "Quest Reward: \"One drink too many...\", Brigit Farm"
         }
-      ]
+      ],
+      "description": "A rapid jolt of electricity strikes the foe. It can’t be evaded."
     },
     {
       "name": "TM35 (Flamethrower)",
@@ -3591,8 +3419,14 @@
           "location": "MAPLE ISLAND",
           "habitat": "THIRD STRATUM",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Flamethrower",
+          "location": "Third Stratum"
         }
-      ]
+      ],
+      "description": "The foe is scorched with intense flames. The foe may suffer a burn."
     },
     {
       "name": "TM36 (Sludge Bomb)",
@@ -3603,8 +3437,14 @@
           "location": "AUBURN THICKET",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Sludge Bomb",
+          "location": "Auburn Thicket"
         }
-      ]
+      ],
+      "description": "Filthy sludge is hurled at the foe. It may poison the target."
     },
     {
       "name": "TM37 (Sandstorm)",
@@ -3615,8 +3455,14 @@
           "location": "DESERT OF GOLGONDA",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Sandstorm",
+          "location": "Desert of Golgonda"
         }
-      ]
+      ],
+      "description": "A 5-turn sandstorm that damages all types except Rock, Ground, and Steel."
     },
     {
       "name": "TM38 (Fire Blast)",
@@ -3627,8 +3473,14 @@
           "location": "PORCELAIN CAVE",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Fire Blast",
+          "location": "Porcelain Cave"
         }
-      ]
+      ],
+      "description": "The foe is hit with an intense flame. It may leave the target with a burn."
     },
     {
       "name": "TM39 (Rock Tomb)",
@@ -3639,8 +3491,14 @@
           "location": null,
           "habitat": "COASTAL ROAD",
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Rock Tomb",
+          "location": "Coastal Road"
         }
-      ]
+      ],
+      "description": "Boulders are hurled at the foe. It also lowers the foe’s Speed if it hits."
     },
     {
       "name": "TM40 (Aerial Ace)",
@@ -3651,8 +3509,26 @@
           "location": "ABANDONED LAB",
           "habitat": "FIRST STRATUM",
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Aerial Ace",
+          "location": "First Stratum"
         }
-      ]
+      ],
+      "description": "An extremely fast attack against one target. It can’t be evaded."
+    },
+    {
+      "name": "TM41 Torment",
+      "slug": "tm41-torment",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Torment",
+          "location": "Talrega's Guild, TM machine near Rikkah"
+        }
+      ],
+      "description": "It enrages the foe, making it incapable of using the same move successively."
     },
     {
       "name": "TM42 (Facade)",
@@ -3663,8 +3539,14 @@
           "location": "SEA TEMPLE",
           "habitat": "SECOND STRATUM (LEFT SIDE)",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Facade",
+          "location": "Second Stratum, left side"
         }
-      ]
+      ],
+      "description": "An attack that is boosted if user is burned, poisoned, or paralyzed."
     },
     {
       "name": "TM43 (Dragon Pulse)",
@@ -3675,8 +3557,14 @@
           "location": "SEVENTH STRATUM - B2F",
           "habitat": null,
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Dragon Pulse",
+          "location": "Seventh Stratum, B2F"
         }
-      ]
+      ],
+      "description": "The foe is attacked with a shock wave."
     },
     {
       "name": "TM44 (Rest)",
@@ -3687,8 +3575,26 @@
           "location": "AUBURN THICKET",
           "habitat": "FOURTH STRATUM",
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Rest",
+          "location": "Fourth Stratum"
         }
-      ]
+      ],
+      "description": "The user sleeps for two turns to fully restore HP and heal any status problem."
+    },
+    {
+      "name": "TM45 Attract",
+      "slug": "tm45-attract",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Attract",
+          "location": "Talrega's Guild, TM machine near Rikkah"
+        }
+      ],
+      "description": "If it is the other gender, the foe is made infatuated and unlikely to attack."
     },
     {
       "name": "TM46 (Dark Pulse)",
@@ -3699,8 +3605,26 @@
           "location": "ABYSSAL FORTRESS",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Dark Pulse",
+          "location": "Abyssal Fortress"
         }
-      ]
+      ],
+      "description": "The user releases a horrible aura. May also make the target flinch."
+    },
+    {
+      "name": "TM47 Steel Wing",
+      "slug": "tm47-steel-wing",
+      "sources": [
+        {
+          "kind": "tm",
+          "move": "Steel Wing",
+          "location": "Sea of Galazeah, eastern side"
+        }
+      ],
+      "description": "The foe is hit with wings of steel. It may also raise the user’s Defense."
     },
     {
       "name": "TM48 (Skill Swap)",
@@ -3711,8 +3635,14 @@
           "location": "AUBURN THICKET",
           "habitat": "FOURTH STRATUM",
           "note": "Chest (F.O.E.)"
+        },
+        {
+          "kind": "tm",
+          "move": "Skill Swap",
+          "location": "Fourth Stratum"
         }
-      ]
+      ],
+      "description": "The user employs its psychic power to swap abilities with the foe."
     },
     {
       "name": "TM49 (Scald)",
@@ -3723,8 +3653,14 @@
           "location": "AZURE CAVE",
           "habitat": null,
           "note": "Chest (Magna Vis)"
+        },
+        {
+          "kind": "tm",
+          "move": "Scald",
+          "location": "Azure Cave"
         }
-      ]
+      ],
+      "description": "Boiling hot water is shot at the enemy. May burn the target."
     },
     {
       "name": "TM50 (Overheat)",
@@ -3735,8 +3671,14 @@
           "location": "SEVENTH STRATUM - B4F",
           "habitat": null,
           "note": "Chest"
+        },
+        {
+          "kind": "tm",
+          "move": "Overheat",
+          "location": "Seventh Stratum, B4F"
         }
-      ]
+      ],
+      "description": "An intense attack that also sharply reduces the user’s Sp. Atk stat."
     },
     {
       "name": "Topaz",
@@ -3751,7 +3693,8 @@
           "stratum": "SECOND STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A mineral that can be extracted from the Yggdrasil mines."
     },
     {
       "name": "Toxic Orb",
@@ -3763,7 +3706,8 @@
           "habitat": "FOURTH STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. Poisons the holder at the end of the turn."
     },
     {
       "name": "Twistedspoon",
@@ -3775,7 +3719,8 @@
           "habitat": null,
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. A spoon imbued with telekinetic power boosts Psychic-type moves."
     },
     {
       "name": "Ultra Ball",
@@ -3829,7 +3774,8 @@
           "habitat": "SIXTH STRATUM - SOUTH",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "A very high-grade Ball that offers a higher Pokémon catch rate than a Great Ball."
     },
     {
       "name": "Upgrade",
@@ -3856,7 +3802,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "A transparent device filled with all sorts of data. It is made by Silph Co."
     },
     {
       "name": "Water Stone",
@@ -3898,7 +3845,8 @@
           "stratum": "THIRD STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A peculiar stone that makes certain species of Pokémon evolve."
     },
     {
       "name": "Weakness Policy",
@@ -3935,7 +3883,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 5"
         }
-      ]
+      ],
+      "description": "An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once."
     },
     {
       "name": "Wide Lens",
@@ -3947,7 +3896,8 @@
           "habitat": "THIRD STRATUM",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "Magnifying lens that slightly boosts the accuracy of moves."
     },
     {
       "name": "Winged Boots",
@@ -3959,7 +3909,8 @@
           "habitat": "FIBERNIA WOODS",
           "note": "Quest Reward"
         }
-      ]
+      ],
+      "description": "A pair of winged boots. If held, it boosts the user’s Speed stat by 15%."
     },
     {
       "name": "Yellow Bell",
@@ -3971,7 +3922,8 @@
           "habitat": "FIFTH STRATUM - B1F",
           "note": "Chest"
         }
-      ]
+      ],
+      "description": "A mysterious Yellow Bell found in the Fifth Stratum. It emanates a strange aura."
     },
     {
       "name": "Yellow Flower",
@@ -3991,7 +3943,8 @@
           "stratum": "SECOND STRATUM",
           "method": null
         }
-      ]
+      ],
+      "description": "A yellow flower that grows in the Yggdrasil Labyrinth."
     },
     {
       "name": "Yellow Shard",
@@ -4026,7 +3979,8 @@
           "stratum": "SECOND STRATUM",
           "method": "MINING"
         }
-      ]
+      ],
+      "description": "A small yellow shard. It appears to be from some sort of a tool made long ago."
     },
     {
       "name": "Zinc",
@@ -4043,7 +3997,8 @@
           "shop": "NAPIER'S SHOP (AQUA RESORT)",
           "level": "TREASURES OBTAINED: 3"
         }
-      ]
+      ],
+      "description": "A nutritious drink for Pokémon. It raises the base Sp. Def stat of one Pokémon by 20."
     }
   ],
   "tutors": [

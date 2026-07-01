@@ -386,7 +386,7 @@
       "power": 40,
       "accuracy": 100,
       "pp": 30,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Special Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -1485,7 +1485,7 @@
       "power": 60,
       "accuracy": 100,
       "pp": 5,
-      "effect": "Has a $effect_chance% chance to raise all of the user’s stats by one stage.",
+      "effect": "Has a chance to raise all of the user’s stats by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -1961,7 +1961,7 @@
       "power": 30,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -2556,7 +2556,7 @@
       "power": 65,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to lower the target’s Attack by one stage.",
+      "effect": "Has a chance to lower the target’s Attack by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -3074,7 +3074,7 @@
       "power": 60,
       "accuracy": 100,
       "pp": 25,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -3634,7 +3634,7 @@
       "power": 110,
       "accuracy": 70,
       "pp": 5,
-      "effect": "Has a $effect_chance% chance to freeze the target.",
+      "effect": "Has a chance to freeze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -3718,7 +3718,7 @@
       "power": 85,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -4285,7 +4285,7 @@
       "power": 65,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to lower the target’s Speed by one stage.",
+      "effect": "Has a chance to lower the target’s Speed by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -4509,7 +4509,7 @@
       "power": 90,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Special Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -6504,7 +6504,7 @@
       "power": 50,
       "accuracy": 100,
       "pp": 25,
-      "effect": "Has a $effect_chance% chance to confuse the target.",
+      "effect": "Has a chance to confuse the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -6826,7 +6826,7 @@
       "power": 10,
       "accuracy": 100,
       "pp": 35,
-      "effect": "Has a $effect_chance% chance to lower the target’s Speed by one stage.",
+      "effect": "Has a chance to lower the target’s Speed by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -7393,7 +7393,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to lower the target’s Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -7778,7 +7778,7 @@
       "power": 75,
       "accuracy": 95,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to lower the target’s Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -7967,7 +7967,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -8562,7 +8562,7 @@
       "power": 70,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to confuse the target.",
+      "effect": "Has a chance to confuse the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -9143,7 +9143,7 @@
       "power": 60,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -10207,7 +10207,7 @@
       "power": 100,
       "accuracy": 50,
       "pp": 5,
-      "effect": "Has a $effect_chance% chance to confuse the target.",
+      "effect": "Has a chance to confuse the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -10249,7 +10249,7 @@
       "power": 90,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Special Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -11187,7 +11187,7 @@
       "power": 40,
       "accuracy": 100,
       "pp": 25,
-      "effect": "Has a $effect_chance% chance to burn the target.",
+      "effect": "Has a chance to burn the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -12048,7 +12048,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -12951,7 +12951,7 @@
       "power": 110,
       "accuracy": 85,
       "pp": 5,
-      "effect": "Has a $effect_chance% chance to burn the target.",
+      "effect": "Has a chance to burn the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -13105,7 +13105,7 @@
       "power": 75,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to burn the target.",
+      "effect": "Has a chance to burn the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -13385,7 +13385,7 @@
       "power": 60,
       "accuracy": 100,
       "pp": 25,
-      "effect": "Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves.",
+      "effect": "Has a chance to burn the target.  Lets frozen Pokémon thaw themselves.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -13504,7 +13504,7 @@
       "power": 90,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to burn the target.",
+      "effect": "Has a chance to burn the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -13693,7 +13693,7 @@
       "power": 120,
       "accuracy": 100,
       "pp": 15,
-      "effect": "User takes 1/3 the damage inflicted in recoil.  Has a $effect_chance% chance to burn the target.",
+      "effect": "User takes 1/3 the damage inflicted in recoil.  Has a chance to burn the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -13833,7 +13833,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Special Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -16122,7 +16122,7 @@
       "power": 120,
       "accuracy": 80,
       "pp": 5,
-      "effect": "Has a $effect_chance% chance to poison the target.",
+      "effect": "Has a chance to poison the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -16857,7 +16857,7 @@
       "power": 70,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -17179,7 +17179,7 @@
       "power": 95,
       "accuracy": 90,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to burn the target.",
+      "effect": "Has a chance to burn the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -18082,7 +18082,7 @@
       "power": 110,
       "accuracy": 70,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to confuse the target.",
+      "effect": "Has a chance to confuse the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -18656,7 +18656,7 @@
       "power": 80,
       "accuracy": 90,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -19034,7 +19034,7 @@
       "power": 90,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to freeze the target.",
+      "effect": "Has a chance to freeze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -19251,7 +19251,7 @@
       "power": 75,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to freeze the target.",
+      "effect": "Has a chance to freeze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -19587,7 +19587,7 @@
       "power": 55,
       "accuracy": 95,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to lower the target’s Speed by one stage.",
+      "effect": "Has a chance to lower the target’s Speed by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -19965,7 +19965,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -22142,7 +22142,7 @@
       "power": 30,
       "accuracy": 100,
       "pp": 30,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -23402,7 +23402,7 @@
       "power": 50,
       "accuracy": 95,
       "pp": 35,
-      "effect": "Has a $effect_chance% chance to raise the user’s Attack by one stage.",
+      "effect": "Has a chance to raise the user’s Attack by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -23619,7 +23619,7 @@
       "power": 90,
       "accuracy": 90,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to raise the user’s Attack by one stage.",
+      "effect": "Has a chance to raise the user’s Attack by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -24074,7 +24074,7 @@
       "power": 55,
       "accuracy": 95,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to lower the target’s Speed by one stage.",
+      "effect": "Has a chance to lower the target’s Speed by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -24144,7 +24144,7 @@
       "power": 20,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to lower the target’s accuracy by one stage.",
+      "effect": "Has a chance to lower the target’s accuracy by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -24347,7 +24347,7 @@
       "power": 75,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Attack by one stage.",
+      "effect": "Has a chance to lower the target’s Special Attack by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -26069,7 +26069,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to poison the target.",
+      "effect": "Has a chance to poison the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -26489,7 +26489,7 @@
       "power": 15,
       "accuracy": 100,
       "pp": 35,
-      "effect": "Has a $effect_chance% chance to poison the target.",
+      "effect": "Has a chance to poison the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -26643,7 +26643,7 @@
       "power": 50,
       "accuracy": 100,
       "pp": 25,
-      "effect": "Has an increased chance for a critical hit and a $effect_chance% chance to poison the target.",
+      "effect": "Has an increased chance for a critical hit and a chance to poison the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -26867,7 +26867,7 @@
       "power": 40,
       "accuracy": 100,
       "pp": 25,
-      "effect": "Has a $effect_chance% chance to freeze the target.",
+      "effect": "Has a chance to freeze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -27504,7 +27504,7 @@
       "power": 65,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to confuse the target.",
+      "effect": "Has a chance to confuse the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -27882,7 +27882,7 @@
       "power": 90,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Special Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -30108,7 +30108,7 @@
       "power": 75,
       "accuracy": 90,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -30360,7 +30360,7 @@
       "power": 40,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to lower the target’s Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -30584,7 +30584,7 @@
       "power": 60,
       "accuracy": 95,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to lower the target’s Speed by one stage.",
+      "effect": "Has a chance to lower the target’s Speed by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -30619,7 +30619,7 @@
       "power": 60,
       "accuracy": 85,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -30948,7 +30948,7 @@
       "power": 100,
       "accuracy": 95,
       "pp": 5,
-      "effect": "Has a $effect_chance% chance to burn the target.  Lets frozen Pokémon thaw themselves.",
+      "effect": "Has a chance to burn the target.  Lets frozen Pokémon thaw themselves.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -31389,7 +31389,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to burn the target.",
+      "effect": "Has a chance to burn the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -32341,7 +32341,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Defense by one stage.",
+      "effect": "Has a chance to lower the target’s Special Defense by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -33230,7 +33230,7 @@
       "power": 75,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to confuse the target.",
+      "effect": "Has a chance to confuse the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -33461,7 +33461,7 @@
       "power": 60,
       "accuracy": 100,
       "pp": 5,
-      "effect": "Has a $effect_chance% chance to raise all of the user’s stats by one stage.",
+      "effect": "Has a chance to raise all of the user’s stats by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -34140,7 +34140,7 @@
       "power": 65,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to poison the target.",
+      "effect": "Has a chance to poison the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -34245,7 +34245,7 @@
       "power": 90,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to poison the target.",
+      "effect": "Has a chance to poison the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -34441,7 +34441,7 @@
       "power": 30,
       "accuracy": 70,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to poison the target.",
+      "effect": "Has a chance to poison the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -34644,7 +34644,7 @@
       "power": 55,
       "accuracy": 95,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to lower the target’s Special Attack by one stage.",
+      "effect": "Has a chance to lower the target’s Special Attack by one stage.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -34854,7 +34854,7 @@
       "power": 50,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.  Only works if the user is sleeping.",
+      "effect": "Has a chance to make the target flinch.  Only works if the user is sleeping.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -35106,7 +35106,7 @@
       "power": 65,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -35617,7 +35617,7 @@
       "power": 65,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -39432,7 +39432,7 @@
       "power": 110,
       "accuracy": 70,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -39663,7 +39663,7 @@
       "power": 75,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -39754,7 +39754,7 @@
       "power": 40,
       "accuracy": 100,
       "pp": 30,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -40188,7 +40188,7 @@
       "power": 90,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to paralyze the target.",
+      "effect": "Has a chance to paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -41028,7 +41028,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 10,
-      "effect": "Has a $effect_chance% chance to burn, freeze, or paralyze the target.",
+      "effect": "Has a chance to burn, freeze, or paralyze the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -41252,7 +41252,7 @@
       "power": 40,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -42498,7 +42498,7 @@
       "power": 60,
       "accuracy": 100,
       "pp": 20,
-      "effect": "Has a $effect_chance% chance to confuse the target.",
+      "effect": "Has a chance to confuse the target.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [
@@ -42967,7 +42967,7 @@
       "power": 80,
       "accuracy": 100,
       "pp": 15,
-      "effect": "Has a $effect_chance% chance to make the target flinch.",
+      "effect": "Has a chance to make the target flinch.",
       "kind": "baseline",
       "is_custom": false,
       "used_by": [

@@ -21,6 +21,12 @@ Also extracts embedded variant sprites from the Etrian Variants sheet into
 ./site/assets/variants/<slug>.png (served by the site).
 
 Run with: python3 scripts/build_data.py  (from the project root)
+
+Optionally pass --rom <path-to-gba-file> to additionally pull item
+descriptions straight out of a legally-owned ROM (see rom_source.py) — the
+spreadsheets never had these, since they only ever existed in-game. The ROM
+itself is never read into the repo or redistributed; only the extracted text
+ends up in items.json.
 """
 
 import json
@@ -33,6 +39,8 @@ from datetime import datetime
 from pathlib import Path
 
 import openpyxl
+
+import rom_source
 
 HERE = Path(__file__).parent
 ROOT = HERE.parent
@@ -1004,11 +1012,21 @@ def parse_gathering_mining_sheet(wb, items):
                 })
 
 def parse_tm_sheet(wb, items):
+    # Columns are (blank, "TM01"-style number label, move name, location) —
+    # note col A is blank, so num/move/loc are cols B/C/D, not A/B/C.
     ws = wb["TM Location"]
     for row in ws.iter_rows(min_row=4, max_col=5, values_only=True):
-        num, move, loc = (row + (None,)*5)[:3]
+        row = (row or ()) + (None,) * 5
+        num_cell, move, loc = row[1], row[2], row[3]
         if move and isinstance(move, str):
-            tm_name = f"TM{int(num):02d} {move.strip()}" if isinstance(num, (int, float)) else f"TM {move.strip()}"
+            num = None
+            if isinstance(num_cell, (int, float)):
+                num = int(num_cell)
+            elif isinstance(num_cell, str):
+                m = re.search(r"\d+", num_cell)
+                if m:
+                    num = int(m.group())
+            tm_name = f"TM{num:02d} {move.strip()}" if num is not None else f"TM {move.strip()}"
             add_item_source(items, tm_name, {
                 "kind": "tm",
                 "move": move.strip(),
@@ -1271,6 +1289,10 @@ def detect_evolution_items(condition):
 # -----------------------------------------------------------------------------
 
 def main():
+    rom_path = None
+    if "--rom" in sys.argv:
+        rom_path = sys.argv[sys.argv.index("--rom") + 1]
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     print("Extracting variant sprites to originals dir...", flush=True)
@@ -1315,6 +1337,30 @@ def main():
     parse_tm_sheet(wb_wild, items)
     tutors = parse_move_tutors_sheet(wb_wild)
     wb_wild.close()
+
+    if rom_path:
+        print(f"Extracting item descriptions from ROM: {rom_path}", flush=True)
+        rom_descriptions = rom_source.extract_item_descriptions(rom_path)
+        matched = 0
+        for entry in items.values():
+            # Strip spreadsheet-only decoration ("(Key Item)", gathering
+            # sheet's "↑↑" boost markers) that the ROM's own item name
+            # never carries, so the canon-key lookup can still line up.
+            clean_name = re.sub(r"\s*\(.*?\)\s*$", "", entry["name"])
+            clean_name = clean_name.replace("↑↑", "").replace("↑", "").strip()
+            # TMs are stored in-game as bare "TM01", not "TM01 <move name>".
+            tm_match = re.match(r"^(TM\d+)\b", clean_name)
+            if tm_match:
+                clean_name = tm_match.group(1)
+            # The docs spell this "B."/"Black Augurite"; the ROM's 14-byte
+            # name buffer truncates it to "Bl. Augurite".
+            if rom_source.canon(clean_name) in ("BAUGURITE", "BLACKAUGURITE"):
+                clean_name = "Bl. Augurite"
+            desc = rom_descriptions.get(rom_source.canon(clean_name))
+            if desc:
+                entry["description"] = desc
+                matched += 1
+        print(f"  matched {matched}/{len(items)} items to ROM descriptions", flush=True)
 
     # Build evolution graph
     graph, reverse = build_evolution_graph(all_species, all_bands)

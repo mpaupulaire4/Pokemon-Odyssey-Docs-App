@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .claude/
 cache/pokeapi_cache/
+
+# ROM files used locally with `build_data.py --rom` — never committed.
+*.gba
+*.gbc
+*.nds
+*.ips
+*.ups
+*.bps
